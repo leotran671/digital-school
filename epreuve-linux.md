@@ -744,7 +744,7 @@ Choisir la bonne réponse, 1 seul choix est bon.
 ### Exercice 2 : Les droits sur les fichiers.
 Pour cet exercice, renseignez juste les commandes adéquates pour chaque question.
 
-1) Dans le répertoire ```/tmp``` créer les fichiers et les répertoires suivants:
+1) Dans le répertoire ```~``` créer les fichiers et les répertoires suivants:
     - ```priv-dir/priv-file```
     - ```pub-dir/pub-file```
 
