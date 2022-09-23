@@ -1,11 +1,11 @@
-[# DIGITAL SCHOOL - EXAMEN LINUX
+# DIGITAL SCHOOL - EXAMEN LINUX
 ## DUREE 
 12H30 - 15H30 (3H)
 ### Consignes
 Vous devez envoyer vos réponses par mail à ulrichmonji@eazytraining.fr avant  la fin du temps imparti. Tout travail en retard ne sera pas pris en compte, et la note adéquate sera simplement zéro (O). Bonne chance à tous !
 
 
-### Exercice 1 : QCM (70 Points).
+### Exercice 1 : QCM (70 Points)
 Choisir la bonne réponse, 1 seul choix est bon. 
 
     1) Quels sont les composants d'un Système d'exploitation Linux ?
@@ -729,13 +729,13 @@ Choisir la bonne réponse, 1 seul choix est bon.
         C: Ajouter des lignes en position 3 et 5 dans 'fichier' 
         D: Supprimer les lignes contenant 3 ou 5 dans 'fichier' 
 
-    123) Quel est le résultat de la commande suivante ? echo un deux trois | awk 'print $0}'
+    123) Quel est le résultat de la commande suivante ? echo un deux trois | awk '{print $0}'
         A: un,deux,trois
         B: un deux trois
         C: un
         D: un:deux:trois
 
-    124) Quel est le résultat de la commande suivante ? echo un deux trois | awk 'print $1,$2,$3}'
+    124) Quel est le résultat de la commande suivante ? echo un deux trois | awk '{print $1,$2,$3}'
         A: un,deux,trois
         B: un deux trois
         C: un
@@ -769,4 +769,3 @@ Pour cet exercice, renseignez juste les commandes adéquates pour chaque questio
 9) Rendre le fichier ```test.sh``` exécutable pour l'utilisateur propriétaire et essayer de l’exécuter de nouveau
 
 10) En utilisant la notation octale changer les permissions du fichier ```test.sh``` pour permettre à tout le monde d’exécuter le fichier ```test.sh```
-](https://github.com/ulrichmonji/digital-school/blob/main/epreuve-linux.md)
