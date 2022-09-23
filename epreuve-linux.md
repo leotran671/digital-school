@@ -1,4 +1,4 @@
-# DIGITAL SCHOOL - EXAMEN LINUX
+[# DIGITAL SCHOOL - EXAMEN LINUX
 ## DUREE 
 12H30 - 15H30 (3H)
 ### Consignes
@@ -769,3 +769,4 @@ Pour cet exercice, renseignez juste les commandes adéquates pour chaque questio
 9) Rendre le fichier ```test.sh``` exécutable pour l'utilisateur propriétaire et essayer de l’exécuter de nouveau
 
 10) En utilisant la notation octale changer les permissions du fichier ```test.sh``` pour permettre à tout le monde d’exécuter le fichier ```test.sh```
+](https://github.com/ulrichmonji/digital-school/blob/main/epreuve-linux.md)
