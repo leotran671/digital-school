@@ -5,7 +5,7 @@
 Vous devez envoyer vos réponses par mail à ulrichmonji@eazytraining.fr avant  la fin du temps imparti. Tout travail en retard ne sera pas pris en compte, et la note adéquate sera simplement zéro (O). Bonne chance à tous !
 
 
-### Exercice 1 : QCM 
+### Exercice 1 : QCM (70 Points).
 Choisir la bonne réponse, 1 seul choix est bon. 
 
     1) Quels sont les composants d'un Système d'exploitation Linux ?
@@ -741,7 +741,7 @@ Choisir la bonne réponse, 1 seul choix est bon.
         C: un
         D: un:deux:trois
 
-### Exercice 2 : Les droits sur les fichiers.
+### Exercice 2 : Les droits sur les fichiers (30 Points).
 Pour cet exercice, renseignez juste les commandes adéquates pour chaque question.
 
 1) Dans le répertoire ```~``` créer les fichiers et les répertoires suivants:
